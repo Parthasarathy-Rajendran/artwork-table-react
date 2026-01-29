@@ -1,4 +1,4 @@
-import  { OverlayPanel } from 'primereact/OverlayPanel'
+import  { OverlayPanel } from 'primereact/overlaypanel'
 import { Button } from 'primereact/button'
 import { InputText } from 'primereact/inputtext'
 import type { Artwork } from '../types'
